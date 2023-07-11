@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  },
+  "name": "social-media",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "express-routemap": "^1.6.0"
+  },
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayo11011/mySocial-media.git"
+  },
+  "author": "Ay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayo11011/mySocial-media/issues"
+  },
+  "homepage": "https://github.com/ayo11011/mySocial-media#readme",
+  "description": ""
+}
